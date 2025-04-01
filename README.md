@@ -1,6 +1,6 @@
 # Linktree
 💕Todos as versões do meu linktree.
 
-Veja o atual por dentro➡️ https://app.netlify.com/
+_Linktree atual:_ https://soraya-almeida.netlify.app/
 
-__Hospedagem gratuita:__ Netlify
+__Hospedagem gratuita:__ https://app.netlify.com/
