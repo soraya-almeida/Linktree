@@ -1,3 +1,6 @@
 # Linktree
-Todos as versões do meu linktree.
-Hospedagem gratuita: https://app.netlify.com/
+💕Todos as versões do meu linktree.
+
+Veja o atual por dentro➡️ https://app.netlify.com/
+
+__Hospedagem gratuita:__ Netlify
